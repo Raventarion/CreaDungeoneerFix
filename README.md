@@ -3,7 +3,7 @@
 Helloo, I recently got back to the game and got to the topic of the customs from the dungeoneer having disappeared,
 since I couldn't find mods or fixes for it, I did it myself.
 
-Imma talk about what I found, so if you just want the method it's below and the files are in the comment.
+Imma talk about what I found, so if you just want the method, it's below.
 
 First of all, the thing really was disabled by default, idk the reason (bugs maybe) but it was supposed to be unlocked by placing a silvan idol.
 I originally wanted to make a mod but i'm too lazy,
